@@ -1,16 +1,16 @@
 {
-    "version": "0.4.2",
+    "version": "0.5.1",
     "description": "Onde Inference CLI — fine-tune models and manage your Onde Inference account from the terminal.",
     "homepage": "https://ondeinference.com/cli",
     "license": "MIT OR Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ondeinference/onde-cli/releases/download/v0.4.2/onde-win-amd64.exe#/onde.exe",
-            "hash": "3c06b21bf99602f1a0dcacfc499b8b7322f019960cb03277e7309f59489d3ef5"
+            "url": "https://github.com/ondeinference/onde-cli/releases/download/v0.5.1/onde-win-amd64.exe#/onde.exe",
+            "hash": "0d4c53a094bec5223795ca8a8e6e393d3977b3560717944bca313778219fd6e0"
         },
         "arm64": {
-            "url": "https://github.com/ondeinference/onde-cli/releases/download/v0.4.2/onde-win-arm64.exe#/onde.exe",
-            "hash": "ff1eb548f1312211ca1d898ab73134049689c8a1426bba86d1cb1041d4d79923"
+            "url": "https://github.com/ondeinference/onde-cli/releases/download/v0.5.1/onde-win-arm64.exe#/onde.exe",
+            "hash": "76cdf9714bc5c348f559bd0479d69a33210f6f91e3e1b64b78e5990b82c71ba0"
         }
     },
     "bin": "onde.exe",
