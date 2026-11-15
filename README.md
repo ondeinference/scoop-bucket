@@ -44,7 +44,7 @@ This bucket provides the native `onde` binary for Windows (amd64 and arm64). It 
 | pip | `pip install onde-cli` |
 | uv | `uv tool install onde-cli` |
 | cargo | `cargo install onde-cli` |
-| Homebrew | `brew install ondeinference/onde` |
+| Homebrew | `brew install ondeinference/tap/onde` |
 
 ## Issues
 
