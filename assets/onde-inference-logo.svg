@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="80" height="80" rx="12" fill="#1B4332" />
+  <g fill="#F5F3EC" fill-rule="evenodd">
+    <!-- O: ring, outer r=15 touches all four edges -->
+    <path transform="translate(8 8)"
+          d="M15 0a15 15 0 1 1 0 30a15 15 0 1 1 0-30Z M15 7a8 8 0 1 0 0 16a8 8 0 1 0 0-16Z" />
+    <!-- N: two stems plus a diagonal, drawn as one outline -->
+    <path transform="translate(42 8)"
+          d="M0 0H7L23 19.6V0H30V30H23L7 10.4V30H0Z" />
+    <!-- D: stem plus a half-round bowl whose arc reaches x=30 -->
+    <path transform="translate(8 42)"
+          d="M0 0H15A15 15 0 0 1 15 30H0Z M7 7V23H15A8 8 0 0 0 15 7Z" />
+    <!-- E: full-width top, middle and bottom bars -->
+    <path transform="translate(42 42)"
+          d="M0 0H30V7H7V11.5H30V18.5H7V23H30V30H0Z" />
+  </g>
+</svg>
